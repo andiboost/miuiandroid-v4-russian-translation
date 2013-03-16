@@ -5,10 +5,12 @@ MIUI v.4 Russian translation files (for miuiandroid.com ROM 3.2.22 and Controp P
 
 Thanks for MIUI Translators:
 
-    KDGDev (KOJAN Development Group)
-    axel2033 (Ilia Aksyonov)
-    devserg
-    BurgerZ (Zhukovskiy Andrey)
-    malchik-solnce (Серёжка)))
-    miuirussia (MIUI Russia)
-    VBenkovskyy (Vlaaaad)
+<ul>
+<li>KDGDev (KOJAN Development Group)</li>
+<li>axel2033 (Ilia Aksyonov)</li>
+<li>devserg</li>
+<li>BurgerZ (Zhukovskiy Andrey)</li>
+<li>malchik-solnce (Серёжка)))</li>
+<li>miuirussia (MIUI Russia)</li>
+<li>VBenkovskyy (Vlaaaad)</li>
+</ul></article>
