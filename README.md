@@ -13,4 +13,6 @@ Thanks for MIUI Translators:
 <li>malchik-solnce (Серёжка)))</li>
 <li>miuirussia (MIUI Russia)</li>
 <li>VBenkovskyy (Vlaaaad)</li>
-</ul></article>
+<li>mark-koodoo (Control Panel)</li>
+<li>Aternus (Aternus Networks)
+</ul></article></li>
