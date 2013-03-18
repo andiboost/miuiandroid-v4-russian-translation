@@ -875,7 +875,7 @@
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
     <string name="about_settings">Сведения о телефоне</string>
-    <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
+    <string name="about_settings_summary">Просмотр юридической информации, состояния устройства и версии ПО</string>
     <string name="legal_information">Правовая информация</string>
     <string name="contributors_title">Участники</string>
     <string name="copyright_title">Авторские права</string>
@@ -1724,7 +1724,7 @@
     <string name="apn_general">Интернет</string>
     <string name="launcher_settings_title">Параметры рабочего стола</string>
     <string name="screen_timeout_title">Отключение экрана</string>
-    <string name="screen_on_proximity_sensor_title">Режим педотвращения ошибок</string>
+    <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий на экран заблокированного телефона (определяется с помощью датчика приближения)</string>
     <string name="key_settings_title">Клавиши</string>
     <string name="key_settings">Клавиши</string>
@@ -1758,7 +1758,7 @@
     <string name="pref_volume_category_title">Клавиши Громкости</string>
     <string name="pref_volume_wake_title">Пробуждение качелькой громкости</string>
     <string name="pref_volume_wake_summary">Нажатие клавиш изменения громкости разблокирует телефон</string>
-    <string name="status_bar_settings">Параметры панели состояния</string>
+    <string name="status_bar_settings">Настройка панели состояния</string>
     <string name="complete_settings">Все настройки</string>
     <string name="common_settings">Общие настройки</string>
     <string name="battery_settings">Батарея</string>
@@ -1841,7 +1841,7 @@
     <string name="wifi_context_menu_forget">Удалить сеть</string>
     <string name="wifi_context_menu_change_password">Изменить пароль</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат</string>
-    <string name="search_label">Параметры</string>
+    <string name="search_label">Настройки</string>
     <string name="search_hint">Настройки поиска</string>
     <string name="search_description">Настройки поиска</string>
     <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>

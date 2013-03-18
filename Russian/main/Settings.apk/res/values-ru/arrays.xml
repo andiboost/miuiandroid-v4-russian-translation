@@ -263,7 +263,7 @@
     <string-array name="battery_indicator_style_entries">
         <item>Графический</item>
         <item>Проценты</item>
-        <item>Полоса в строке состояния</item>
+        <item>Полоса вверху экрана</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Спросить при подключении</item>
